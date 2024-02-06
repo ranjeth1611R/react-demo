@@ -1,0 +1,29 @@
+.full{
+    background-color: #f5d0fe;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whitepg{
+    width: 600px;
+    height: auto;
+    background-color: white;
+    margin: 80px;
+    padding-left: 45px;
+}
+.rio{
+    display: inline-block;
+    padding: 15px 15px 0px;
+    line-height: 1;
+    font-size: 17px;
+}
+.photo{
+    border-radius: 50%;
+}
+.btn{
+    width: 90%;
+    background-color: blueviolet;
+    color:white;
+    font-size: 18px;
+    margin:10px 15px 25px;
+}

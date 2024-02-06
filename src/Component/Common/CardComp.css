@@ -1,0 +1,20 @@
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn1{
+float: left;
+background-color: red;
+color: white;
+border: none;
+}
+.deal{
+    color: red;
+    line-height: 2;
+    margin-left: 75px;
+    
+}
+.image{
+    border-radius: 50%;
+}
