@@ -8,7 +8,7 @@ const birthday= ()=>{
       
           id: 1,
       
-          name: "ranjith",
+          name: "ranjith","Arun",
       
           age: 29,
       
